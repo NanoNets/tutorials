@@ -3,7 +3,7 @@ Repository with data and code samples for running object detection and classific
 
 ## Object Detection
 - data
-  - Contains the data for building and training an Object Detection Model to identify the Millenium Falcon and TieFighters.
+  - Contains the data for building and training an Object Detection Model to detect and find the coordinates of the Millenium Falcon and TieFighters in a given image.
 - notebooks
   - Contains the ipython notebook which can be used as a reference or launched using mybinder to try out the APIs yourself and build your own object detection model<sup>[1](#footnote_1)</sup>.
   
