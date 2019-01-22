@@ -10,7 +10,7 @@ Repository with data and code samples for running object detection and classific
   
 ## Image Classification
 - data
-  - Contains the data for building and training a simple two class image classification model<sup>[1](#footnote_2)</sup> to differentiate between cats and dogs.
+  - Contains the data for building and training a simple two class image classification model<sup>[2](#footnote_2)</sup> to differentiate between cats and dogs.
 - notebooks
   - Contains the ipython notebook which can be used as a reference or launched using mybinder to try out the APIs yourself and build your own image classification model<sup>[1](#footnote_1)</sup>.
 
