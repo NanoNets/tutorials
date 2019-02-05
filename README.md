@@ -2,7 +2,6 @@
 # Tutorials
 Repository with data and code samples for running object detection and classification jobs using Nanonets API.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NanoNets/tutorials/master)
 
 
 ## Object Detection
